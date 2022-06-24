@@ -1,1 +1,1 @@
-This script returns absolute path name of working directory
+Script describes current working directory
